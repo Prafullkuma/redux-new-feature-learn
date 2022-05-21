@@ -22,6 +22,6 @@ export const counterSlice = createSlice({
         }
     }
 })
-
+//Welocme 
 export const  {increament , decrement ,reset, increamentByAmount } = counterSlice.actions
 export default counterSlice.reducer 
